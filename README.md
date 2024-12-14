@@ -3,3 +3,5 @@
 3)  most complete repository on github including every thing :  https://github.com/ckjbug/Hacking
 4)  hacking source repository on GitHub: http://github.com/Z4nzu/hackingtool
 5) QR code generator repository on GitHub: https://github.com/AlokSwaminathan/QRception
+6)  my Data sience files repositories on github :   https://github.com/mrdbourke/zero-to-mastery-ml/tree/master
+7)  
