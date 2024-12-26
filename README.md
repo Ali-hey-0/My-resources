@@ -4,4 +4,5 @@
 4)  hacking source repository on GitHub: http://github.com/Z4nzu/hackingtool
 5) QR code generator repository on GitHub: https://github.com/AlokSwaminathan/QRception
 6)  my Data sience files repositories on github :   https://github.com/mrdbourke/zero-to-mastery-ml/tree/master
-7)  
+7)  devOps Persian Course :  https://fanapcampus.com/course/JJ88EtTMS9eMvtb
+8)   
